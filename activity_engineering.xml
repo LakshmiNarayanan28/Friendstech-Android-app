@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#bdb76b"
+    tools:context=".Engineering">
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="506dp"
+        android:background="#ffd700"
+        android:onClick="open"
+        android:text="IndiaBix Aptitude Test(Click Here)" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="449dp"
+        android:background="#ffd700"
+        android:onClick="open1"
+        android:text="CrackAptitute Test(Click Here)" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="388dp"
+        android:background="#ffd700"
+        android:onClick="open2"
+        android:text="CareerRide Aptitude(Click here)" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="327dp"
+        android:background="#ffd700"
+        android:onClick="open3"
+        android:text="AllIndianExams Exam(Click here)" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="266dp"
+        android:background="#ffd700"
+        android:onClick="open4"
+        android:text="StudyTonight Exam(Click Here)" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="209dp"
+        android:background="#ffd700"
+        android:onClick="open5"
+        android:text="PracticeAptitude(Click Here)" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="152dp"
+        android:background="#ffd700"
+        android:onClick="open6"
+        android:text="Tcs-Online test(Clich Here)" />
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="92dp"
+        android:background="#ffd700"
+        android:onClick="open7"
+        android:text="geeksforGeeks(Click Here)" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="35dp"
+        android:background="#ffd700"
+        android:onClick="open8"
+        android:text="javatPoint Programming(Click Here)" />
+</RelativeLayout>
