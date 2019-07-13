@@ -1,1 +1,1 @@
-# Friends-Tech
+# Friends-Tech Android app
